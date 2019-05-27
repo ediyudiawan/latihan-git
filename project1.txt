@@ -1,3 +1,4 @@
 Nama	: Cristiano Ronaldo
 NIM	: 1715051104
 Asal	: Portugal 
+Klub	: Juventus
